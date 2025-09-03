@@ -1,4 +1,4 @@
-\# Lecture 1: Introduction to Algorithms
+\#Lecture 1: Introduction to Algorithms
 
 * Variables and Data Types
 * conditional Statements
